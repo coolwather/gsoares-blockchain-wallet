@@ -1,5 +1,5 @@
 {
-  "name": "blockchain-wallet",
+  "name": "blockchain-wallet-manager",
   "version": "0.0.1",
   "description": "A wallet manager for blockchain",
   "main": "index.js",
