@@ -1,10 +1,10 @@
 {
   "name": "blockchain-wallet-manager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A wallet manager for blockchain",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/coolwather/gsoares-blockchain-wallet/issues"
   },
-  "homepage": "https://github.com/coolwather/gsoares-blockchain-wallet#readme"
+  "homepage": "https://github.com/coolwather/gsoares-blockchain-wallet#readme",
+  "dependencies": {
+    "ethers": "^5.6.9"
+  }
 }
